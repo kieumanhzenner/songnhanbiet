@@ -13,13 +13,16 @@
             "id": "https://songnhanbiet.com/test/",
             "url": "https://songnhanbiet.com/test/",
             "title": "Test",
+            "summary": "Demo",
+            "content_html": "<p>Demo</p>",
+            "image": "https://songnhanbiet.com/media/posts/1/2.png",
             "author": {
                 "name": "Kiều Mạnh"
             },
             "tags": [
             ],
             "date_published": "2021-10-19T23:05:41+07:00",
-            "date_modified": "2021-10-19T23:05:41+07:00"
+            "date_modified": "2021-10-19T23:54:34+07:00"
         }
     ]
 }

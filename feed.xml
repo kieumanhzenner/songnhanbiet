@@ -3,7 +3,7 @@
     <title>Sống Nhận Biết</title>
     <link href="https://songnhanbiet.com/feed.xml" rel="self" />
     <link href="https://songnhanbiet.com" />
-    <updated>2021-10-19T23:05:41+07:00</updated>
+    <updated>2021-10-19T23:54:34+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -17,8 +17,18 @@
         <link href="https://songnhanbiet.com/test/"/>
         <id>https://songnhanbiet.com/test/</id>
 
-        <updated>2021-10-19T23:05:41+07:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-10-19T23:54:34+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://songnhanbiet.com/media/posts/1/2.png" alt="" />
+                    Demo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://songnhanbiet.com/media/posts/1/2.png" alt="" />
+                <p>Demo</p>
+            ]]>
+        </content>
     </entry>
 </feed>
