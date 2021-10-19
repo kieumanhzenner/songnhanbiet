@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sống Nhận Biết",
+    "description": "",
+    "home_page_url": "https://kieumanhzenner.github.io",
+    "feed_url": "https://kieumanhzenner.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kiều Mạnh"
+    },
+    "items": [
+        {
+            "id": "https://kieumanhzenner.github.io/test/",
+            "url": "https://kieumanhzenner.github.io/test/",
+            "title": "Test",
+            "author": {
+                "name": "Kiều Mạnh"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-19T23:05:41+07:00",
+            "date_modified": "2021-10-19T23:05:41+07:00"
+        }
+    ]
+}
