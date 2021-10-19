@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Sống Nhận Biết</title>
-    <link href="https://kieumanhzenner.github.io/feed.xml" rel="self" />
-    <link href="https://kieumanhzenner.github.io" />
+    <link href="https://songnhanbiet.com/feed.xml" rel="self" />
+    <link href="https://songnhanbiet.com" />
     <updated>2021-10-19T23:05:41+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
-    <id>https://kieumanhzenner.github.io</id>
+    <id>https://songnhanbiet.com</id>
 
     <entry>
         <title>Test</title>
         <author>
             <name>Kiều Mạnh</name>
         </author>
-        <link href="https://kieumanhzenner.github.io/test/"/>
-        <id>https://kieumanhzenner.github.io/test/</id>
+        <link href="https://songnhanbiet.com/test/"/>
+        <id>https://songnhanbiet.com/test/</id>
 
         <updated>2021-10-19T23:05:41+07:00</updated>
             <summary></summary>

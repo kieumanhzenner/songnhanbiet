@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Sống Nhận Biết",
     "description": "",
-    "home_page_url": "https://kieumanhzenner.github.io",
-    "feed_url": "https://kieumanhzenner.github.io/feed.json",
+    "home_page_url": "https://songnhanbiet.com",
+    "feed_url": "https://songnhanbiet.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kiều Mạnh"
     },
     "items": [
         {
-            "id": "https://kieumanhzenner.github.io/test/",
-            "url": "https://kieumanhzenner.github.io/test/",
+            "id": "https://songnhanbiet.com/test/",
+            "url": "https://songnhanbiet.com/test/",
             "title": "Test",
             "author": {
                 "name": "Kiều Mạnh"
